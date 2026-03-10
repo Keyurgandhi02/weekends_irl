@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "weekends",
+    "scheme": "weekends",
     "slug": "weekends",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -11,20 +12,26 @@
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
-    "assetBundlePatterns": [
-      "**/*"
-    ],
+    "plugins": ["@react-native-google-signin/google-signin"],
+    "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.keyur1011.weekends"
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.keyur1011.weekends"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "103ecc78-7fbd-44ee-af7f-3167621ae060"
+      }
     }
   }
 }

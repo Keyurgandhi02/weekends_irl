@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>353260447399-peadal6bite0od4ehntue5mggom8q6jr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.353260447399-peadal6bite0od4ehntue5mggom8q6jr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>353260447399-g8p5er0h0slr4f39l182sk4s8796gm4n.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBQ7xHPEdKwL4B-c1wn9bADAA2E4yMX4Kg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>353260447399</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.keyur1011.weekends</string>
+	<key>PROJECT_ID</key>
+	<string>weekends-412007</string>
+	<key>STORAGE_BUCKET</key>
+	<string>weekends-412007.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:353260447399:ios:23444f2e8c9dc2e8e1dd82</string>
+</dict>
+</plist>

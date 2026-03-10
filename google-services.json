@@ -1,0 +1,50 @@
+{
+  "project_info": {
+    "project_number": "353260447399",
+    "project_id": "weekends-412007",
+    "storage_bucket": "weekends-412007.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353260447399:android:7020f1c370f80ad2e1dd82",
+        "android_client_info": {
+          "package_name": "com.keyur1011.weekends"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353260447399-g8p5er0h0slr4f39l182sk4s8796gm4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.keyur1011.weekends",
+            "certificate_hash": "3025fc7da65030ff8cec567d5bf2436f64200463"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4YDqIGFT6_BK2dtPA7ZokicXr9_e9B8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353260447399-1ddjdm7t0jtjgh4jatjhkeorhusgdife.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "353260447399-peadal6bite0od4ehntue5mggom8q6jr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.keyur1011.weekends"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
