@@ -20,17 +20,17 @@ Built as a **weekend project**, focused on speed, performance, and clean UI.
 - 📍 Discover nearby events & activities
 - 📝 Create & join meetups
 - 💬 Basic social interaction (posts / chats)
-- 🔔 Real-time updates (if using Firebase)
+- 🔔 Real-time updates
 - 📱 Smooth & responsive UI
 
 ---
 
 ## 🛠 Tech Stack
 - React Native
-- Expo (if used)
+- Expo
 - Firebase (Auth, Firestore, Storage)
 - REST APIs
-- State Management (Redux / Context / Zustand)
+- State Management (Redux)
 
 
 ## ⚙️ Installation
